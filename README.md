@@ -2,6 +2,6 @@
 
 ## Содержание
 
-1. [Алгоритмы и структуры данных](#cahpters/algorithms.md)
-2. [C#](#cahpters/csharp.md)
-3. [Unity](#cahpters/unity.md)
+1. [Алгоритмы и структуры данных](./chapters/algorithms.md)
+2. [C#](./chapters/csharp.md)
+3. [Unity](./chapters/unity.md)
